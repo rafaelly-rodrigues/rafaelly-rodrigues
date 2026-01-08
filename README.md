@@ -1,12 +1,4 @@
-## About me
 
-- 📊 I'm a Data Engineer, graduated in Information Technology at the Federal University of Mato Grosso do Sul (UFMS).  
-- ⚡ I work mostly with Python, SQL, PySpark, Databricks, Airflow, and cloud platforms.  
-- 🎧 Outside work, I love music, movies, and cozy games.  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/rafaelly/)  
-
----
 
 <center>
   <table>
